@@ -34,6 +34,10 @@ export default defineConfig({
 function sidebarBlog() {
   return [
     {
+      text: 'Daftar Dev Tools',
+      link: '/blog/2025-09-dev-tools'
+    },
+    {
       text: 'Deploy Laravel',
       link: '/blog/2024-03-deploy-laravel'
     },
